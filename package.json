@@ -1,0 +1,27 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "i think this should work",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lahawkin/burger.git"
+  },
+  "keywords": [
+    "novice"
+  ],
+  "author": "Laura Hawkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lahawkin/burger/issues"
+  },
+  "homepage": "https://github.com/lahawkin/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  }
+}
